@@ -99,8 +99,8 @@ The system calculates a **Risk Score** based on weighted indicators:
 
 ## 👥 Team
 
-- **Stefanus S. Zen** – Team Captain  
-- **Hafizh** – Team Member  
+- **Hafizh** – Team Captain
+- **Stefanus S. Zen** – Team Member  
 - **Rasyid** – Team Member  
 - **Webie** – Team Member  
 
