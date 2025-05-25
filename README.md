@@ -43,14 +43,9 @@ An intelligent **Multi-Layer Detection System** built with AI to proactively ver
 ### Technologies Used
 
 - **Qwen LLM** – Natural language understanding
-- **Sahabat AI** – Conversational text analysis
 - **MaxCompute** – Large-scale data processing
 - **PAI (Platform for AI)** – Model training and deployment
-- **AnalyticDB** – Real-time pattern detection
-- **DataWorks** – Workflow orchestration
-- **Function Compute** – Serverless backend for lightweight logic
 - **API Gateway** – Secure API integrations
-- **Message Queue** – Streaming event-driven architecture
 - **OSS (Object Storage Service)** – Centralized data lake
 
 ---
